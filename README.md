@@ -20,7 +20,7 @@ The "canonical" version of the books are in [openstax.org](http://openstax.org) 
 - [Statistics](https://github.com/philschatz/statistics-book)
 - [US History](https://github.com/philschatz/us-history-book)
 
-Each book repository contains a link at the top to view the book in a [book reader](http://philschatz.com/books).
+Each book repository contains a link at the top to view the book in a [book reader](http://philschatz.com/books). If you derive a copy, your book (and any changes you make) will be automatically hosted at `http://${YOUR_GITHUB_USERNAME}.github.io/${BOOK_NAME}` thanks to [GitHub Pages](https://pages.github.com/).
 
 # What do I need to know?
 
