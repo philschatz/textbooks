@@ -4,13 +4,13 @@ This is a list of links to textbooks originally created by [openstax.org](http:/
 
 # The Books
 
-The "canonical" version of the books are in [openstax.org](http://openstax.org) and these repositories are mirrors of those versions. These books are licensed CC-BY (or CC-BY-SA) so you can customize them for your course!
+The "canonical" version of the books are in [openstax.org](http://openstax.org) and these repositories are mirrors of those versions. These books are licensed CC-BY (or CC-BY-NC-SA) so you can customize them for your course!
 
 - [Algebra and Trigonometry](https://github.com/philschatz/algebra-trigonometry-book)
 - [Anatomy and Physiology](https://github.com/philschatz/anatomy-book)
 - [Biology](https://github.com/philschatz/biology-book)
 - [Concepts of Biology](https://github.com/philschatz/biology-concepts-book)
-- [Calculus](https://github.com/philschatz/calculus-book) (CC-BY-SA)
+- [Calculus](https://github.com/philschatz/calculus-book) (CC-BY-NC-SA)
 - [Chemistry](https://github.com/philschatz/chemistry-book)
 - [Economics](https://github.com/philschatz/economics-book)
 - [Physics](https://github.com/philschatz/physics-book)
