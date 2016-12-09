@@ -1,6 +1,11 @@
 # Hello!
 
-This is a list of links to textbooks originally created by [openstax.org](http://openstax.org) that have been converted into GitHub repositories so you can **derive your own copy** (aka [Fork](https://help.github.com/articles/fork-a-repo/)), **suggest edits** (aka [Pull Request](https://help.github.com/articles/proposing-changes-to-a-project-with-pull-requests/)), or **errata reporting** in the text (aka Issues) using tools GitHub provides.
+This is a list of links to textbooks originally created by [openstax.org](http://openstax.org) that have been converted into GitHub repositories so you can:
+
+- **derive your own copy** (aka [Fork](https://help.github.com/articles/fork-a-repo/))
+- **suggest edits** (aka [Pull Request](https://help.github.com/articles/proposing-changes-to-a-project-with-pull-requests/))
+- **report errata** in the text (aka Issues) using tools GitHub provides
+- **[read the books online instantly](http://philschatz.com/books/)** using `GitHub Pages`
 
 # The Books
 
